@@ -1,3 +1,3 @@
 # j-share
 
-## http://gitpitch.com/jreamlu/ppt
+-   [ppt](http://gitpitch.com/jreamlu/ppt)

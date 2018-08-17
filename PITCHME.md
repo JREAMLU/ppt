@@ -10,8 +10,6 @@
 
 ## 熔断
 
-[https://github.com/sony/gobreaker](https://github.com/sony/gobreaker)
-
 ---
 
 ## 什么是熔断
@@ -30,20 +28,20 @@
 ## 熔断的三种状态
 
 <br/>
--   @fa[check] 闭合(Closed) |
--   @fa[check] 半断开状态(HalfOpen) |
--   @fa[check] 断开状态(Open) |
+-   闭合(Closed) |
+-   半断开状态(HalfOpen) |
+-   断开状态(Open) |
 
 ---
 
 ## 熔断的请求统计
 
 <br/>
--   @fa[check] 请求数 |
--   @fa[check] 请求成功数 |
--   @fa[check] 请求失败数 |
--   @fa[check] 连续成功数 |
--   @fa[check] 连续失败数 |
+-   请求数 |
+-   请求成功数 |
+-   请求失败数 |
+-   连续成功数 |
+-   连续失败数 |
 
 ---
 
@@ -63,6 +61,8 @@
 
 ## 阅读源码
 
+[https://github.com/sony/gobreaker](https://github.com/sony/gobreaker)
+
 ---
 
 ## 熔断实际演示
@@ -81,10 +81,6 @@
 
 ---
 
-### END
-
-<br>
+### Thank You
 
 @fa[github gp-contact](JREAMLU)
-
-## Thank You
