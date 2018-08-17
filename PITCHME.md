@@ -4,7 +4,8 @@
 
 ## About Me
 
--   Author - LU
+-   作者: LU
+-   时常: 大约40分钟
 
 ---
 
