@@ -5,7 +5,7 @@
 ## About Me
 
 -   作者: LU
--   时常: 大约40分钟
+-   时长: 大约40分钟
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 阅读源码
 
-[https://github.com/sony/gobreaker](https://github.com/sony/gobreaker)
+[https://github.com/sony/gobreaker](https://github.com/JREAMLU/gobreaker)
 
 ---
 
@@ -116,7 +116,7 @@
 
 ## 阅读源码
 
-[https://github.com/juju/ratelimit](https://github.com/juju/ratelimit)
+[https://github.com/juju/ratelimit](https://github.com/JREAMLU/ratelimit)
 
 ---
 
