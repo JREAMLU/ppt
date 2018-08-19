@@ -108,9 +108,13 @@
 
 ## 漏桶算法原理
 
+---?image=assets/image/bucket.png&size=auto 60%&color=white
+
 ---
 
 ## 令牌桶算法原理
+
+---?image=assets/image/token-bucket.png&size=auto 60%&color=white
 
 ---
 
