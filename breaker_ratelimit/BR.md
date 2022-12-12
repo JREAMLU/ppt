@@ -71,10 +71,10 @@ paging: Slide %d / %d
 
 ## 阅读源码
 
-[https://github.com/sony/gobreaker](https://github.com/sony/gobreaker)
+[https://github.com/sony/gobreaker](https://github.com/JREAMLU/gobreaker-2022)
 
 ```bash
-tree $GOPATH/src/github.com/sony/gobreaker
+tree $GOPATH/src/github.com/JREAMLU/gobreaker-2022/
 ```
 
 ---
@@ -174,10 +174,10 @@ tree $GOPATH/src/github.com/sony/gobreaker
 
 ## 阅读源码
 
-[https://github.com/juju/ratelimit](https://github.com/juju/ratelimit)
+[https://github.com/juju/ratelimit](https://github.com/JREAMLU/ratelimit-2022)
 
 ```bash
-tree $GOPATH/src/github.com/juju/ratelimit
+tree $GOPATH/src/github.com/JREAMLU/ratelimit-2022/
 ```
 
 ---
